@@ -15,3 +15,5 @@ https://www.scientificamerican.com/article/how-the-chinese-cyberthreat-has-evolv
 https://blog.lookout.com/mobile-threat-jaderat
 
 http://www.securityweek.com/china-may-delay-vulnerability-disclosures-use-attacks
+
+http://www.securityweek.com/chinese-cyberspies-deliver-new-malware-cpl-files
