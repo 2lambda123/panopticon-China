@@ -19,3 +19,5 @@ http://www.securityweek.com/china-may-delay-vulnerability-disclosures-use-attack
 http://www.securityweek.com/chinese-cyberspies-deliver-new-malware-cpl-files
 
 https://www.wired.com/story/china-tests-limits-of-us-hacking-truce/?mbid=nl_103117_daily_list3_p2
+
+www.securityweek.com/china-has-shut-down-13000-websites-2015-xinhua
