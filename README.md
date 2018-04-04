@@ -23,3 +23,5 @@ https://www.wired.com/story/china-tests-limits-of-us-hacking-truce/?mbid=nl_1031
 www.securityweek.com/china-has-shut-down-13000-websites-2015-xinhua
 
 http://www.zdnet.com/article/australian-universities-and-ngos-targeted-by-iranian-and-chinese-hackers/#ftag=RSSbaffb68
+
+https://www.darkreading.com/vulnerabilities---threats/chinas-vulnerability-database-altered-to-hide-govt-influence/d/d-id/1331235
