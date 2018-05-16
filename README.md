@@ -25,3 +25,5 @@ www.securityweek.com/china-has-shut-down-13000-websites-2015-xinhua
 http://www.zdnet.com/article/australian-universities-and-ngos-targeted-by-iranian-and-chinese-hackers/#ftag=RSSbaffb68
 
 https://www.darkreading.com/vulnerabilities---threats/chinas-vulnerability-database-altered-to-hide-govt-influence/d/d-id/1331235
+
+https://www.securityweek.com/us-military-bans-huawei-zte-phones
