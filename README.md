@@ -27,3 +27,5 @@ http://www.zdnet.com/article/australian-universities-and-ngos-targeted-by-irania
 https://www.darkreading.com/vulnerabilities---threats/chinas-vulnerability-database-altered-to-hide-govt-influence/d/d-id/1331235
 
 https://www.securityweek.com/us-military-bans-huawei-zte-phones
+
+https://www.securityweek.com/chinese-government-hackers-steal-trove-us-navy-data-report
