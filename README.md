@@ -29,3 +29,5 @@ https://www.darkreading.com/vulnerabilities---threats/chinas-vulnerability-datab
 https://www.securityweek.com/us-military-bans-huawei-zte-phones
 
 https://www.securityweek.com/chinese-government-hackers-steal-trove-us-navy-data-report
+
+https://www.wired.com/story/china-hacks-against-united-states/?CNDID=53659400&mbid=nl_062218_daily_list1_p4
