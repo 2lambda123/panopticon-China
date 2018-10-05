@@ -33,3 +33,5 @@ https://www.securityweek.com/chinese-government-hackers-steal-trove-us-navy-data
 https://www.wired.com/story/china-hacks-against-united-states/?CNDID=53659400&mbid=nl_062218_daily_list1_p4
 
 https://www.securityweek.com/cyber-espionage-campaigns-target-tibetan-community-india
+
+https://www.securityweek.com/china-used-tiny-chips-us-computers-steal-secrets-report
