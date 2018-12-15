@@ -39,3 +39,5 @@ https://www.securityweek.com/china-used-tiny-chips-us-computers-steal-secrets-re
 https://www.wired.com/story/us-china-cybertheft-su-bin/?CNDID=53659400&CNDID=53659400&mbid=nl_101118_daily_list1_p4&utm_brand=wired&utm_mailing=WIRED%20NL%20101118%20(1)%20remainder&utm_medium=email&utm_source=nl
 
 https://www.wired.com/story/china-spy-recruitment-us/?
+
+https://www.securityweek.com/us-believes-chinese-intelligence-behind-marriott-hack
