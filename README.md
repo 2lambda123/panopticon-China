@@ -41,3 +41,5 @@ https://www.wired.com/story/us-china-cybertheft-su-bin/?CNDID=53659400&CNDID=536
 https://www.wired.com/story/china-spy-recruitment-us/?
 
 https://www.securityweek.com/us-believes-chinese-intelligence-behind-marriott-hack
+
+https://www.securityweek.com/united-states-and-china-different-kind-cyberwar
