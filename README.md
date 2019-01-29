@@ -43,3 +43,5 @@ https://www.wired.com/story/china-spy-recruitment-us/?
 https://www.securityweek.com/us-believes-chinese-intelligence-behind-marriott-hack
 
 https://www.securityweek.com/united-states-and-china-different-kind-cyberwar
+
+https://www.youtube.com/watch?time_continue=4&v=psqQimMZeTQ
