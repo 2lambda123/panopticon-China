@@ -51,3 +51,5 @@ https://www.securityweek.com/new-luckycat-linked-rat-targets-users-tibet
 https://medium.com/dfrlab/made-in-china-economic-influence-operations-733fb07bdc87
 
 https://www.zdnet.com/article/chinese-company-leaves-muslim-tracking-facial-recognition-database-exposed-online/
+
+https://www.securityweek.com/finland-investigate-suspected-nokia-chinese-data-breach
