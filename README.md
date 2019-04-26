@@ -53,3 +53,5 @@ https://medium.com/dfrlab/made-in-china-economic-influence-operations-733fb07bdc
 https://www.zdnet.com/article/chinese-company-leaves-muslim-tracking-facial-recognition-database-exposed-online/
 
 https://www.securityweek.com/finland-investigate-suspected-nokia-chinese-data-breach
+
+https://medium.com/the-new-york-times/one-month-500-000-face-scans-how-china-is-using-a-i-to-profile-a-minority-b49e93d5a9d3
