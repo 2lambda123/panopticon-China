@@ -55,3 +55,5 @@ https://www.zdnet.com/article/chinese-company-leaves-muslim-tracking-facial-reco
 https://www.securityweek.com/finland-investigate-suspected-nokia-chinese-data-breach
 
 https://medium.com/the-new-york-times/one-month-500-000-face-scans-how-china-is-using-a-i-to-profile-a-minority-b49e93d5a9d3
+
+https://www.securityweek.com/researchers-link-disparate-chinese-hacking-groups
