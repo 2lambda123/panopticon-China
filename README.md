@@ -57,3 +57,5 @@ https://www.securityweek.com/finland-investigate-suspected-nokia-chinese-data-br
 https://medium.com/the-new-york-times/one-month-500-000-face-scans-how-china-is-using-a-i-to-profile-a-minority-b49e93d5a9d3
 
 https://www.securityweek.com/researchers-link-disparate-chinese-hacking-groups
+
+https://www.securityweek.com/telegram-hit-cyber-attack-ceo-points-hk-protests-china
