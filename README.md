@@ -61,3 +61,5 @@ https://www.securityweek.com/researchers-link-disparate-chinese-hacking-groups
 https://www.securityweek.com/telegram-hit-cyber-attack-ceo-points-hk-protests-china
 
 https://www.wired.com/story/inside-chinas-massive-surveillance-operation/
+
+https://www.securityweek.com/xinjiang-surveillance-app-targets-legal-everyday-behaviour-rights-group
