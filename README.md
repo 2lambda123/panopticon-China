@@ -59,3 +59,5 @@ https://medium.com/the-new-york-times/one-month-500-000-face-scans-how-china-is-
 https://www.securityweek.com/researchers-link-disparate-chinese-hacking-groups
 
 https://www.securityweek.com/telegram-hit-cyber-attack-ceo-points-hk-protests-china
+
+https://www.wired.com/story/inside-chinas-massive-surveillance-operation/
