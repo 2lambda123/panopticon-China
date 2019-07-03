@@ -63,3 +63,7 @@ https://www.securityweek.com/telegram-hit-cyber-attack-ceo-points-hk-protests-ch
 https://www.wired.com/story/inside-chinas-massive-surveillance-operation/
 
 https://www.securityweek.com/xinjiang-surveillance-app-targets-legal-everyday-behaviour-rights-group
+
+https://www.vice.com/en_us/article/7xgame/at-chinese-border-tourists-forced-to-install-a-text-stealing-piece-of-malware
+
+https://github.com/motherboardgithub/bxaq
