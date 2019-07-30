@@ -67,3 +67,5 @@ https://www.securityweek.com/xinjiang-surveillance-app-targets-legal-everyday-be
 https://www.vice.com/en_us/article/7xgame/at-chinese-border-tourists-forced-to-install-a-text-stealing-piece-of-malware
 
 https://github.com/motherboardgithub/bxaq
+
+https://www.wired.com/story/china-social-credit-score-system/
