@@ -71,3 +71,7 @@ https://github.com/motherboardgithub/bxaq
 https://www.wired.com/story/china-social-credit-score-system/
 
 https://www.securityweek.com/chinese-cyberspies-continue-targeting-medical-research-organizations
+
+https://www.securityweek.com/twitter-shuts-chinese-accounts-targeting-hong-kong-protests
+
+https://www.securityweek.com/twitter-flexing-its-muscles-against-state-misinformation
