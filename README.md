@@ -69,3 +69,5 @@ https://www.vice.com/en_us/article/7xgame/at-chinese-border-tourists-forced-to-i
 https://github.com/motherboardgithub/bxaq
 
 https://www.wired.com/story/china-social-credit-score-system/
+
+https://www.securityweek.com/chinese-cyberspies-continue-targeting-medical-research-organizations
