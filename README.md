@@ -75,3 +75,5 @@ https://www.securityweek.com/chinese-cyberspies-continue-targeting-medical-resea
 https://www.securityweek.com/twitter-shuts-chinese-accounts-targeting-hong-kong-protests
 
 https://www.securityweek.com/twitter-flexing-its-muscles-against-state-misinformation
+
+https://www.wired.com/story/china-twitter-facebook-hong-kong-protests-disinformation/
