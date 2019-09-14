@@ -79,3 +79,5 @@ https://www.securityweek.com/twitter-flexing-its-muscles-against-state-misinform
 https://www.wired.com/story/china-twitter-facebook-hong-kong-protests-disinformation/
 
 https://www.vice.com/en_us/article/bjwne5/malicious-websites-hacked-iphones-for-years
+
+https://medium.com/dfrlab/twitters-hong-kong-archives-chinese-commercial-bots-at-work-f4c7ae8eea64
