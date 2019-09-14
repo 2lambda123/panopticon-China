@@ -77,3 +77,5 @@ https://www.securityweek.com/twitter-shuts-chinese-accounts-targeting-hong-kong-
 https://www.securityweek.com/twitter-flexing-its-muscles-against-state-misinformation
 
 https://www.wired.com/story/china-twitter-facebook-hong-kong-protests-disinformation/
+
+https://www.vice.com/en_us/article/bjwne5/malicious-websites-hacked-iphones-for-years
