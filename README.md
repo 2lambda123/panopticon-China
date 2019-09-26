@@ -83,3 +83,9 @@ https://www.vice.com/en_us/article/bjwne5/malicious-websites-hacked-iphones-for-
 https://medium.com/dfrlab/twitters-hong-kong-archives-chinese-commercial-bots-at-work-f4c7ae8eea64
 
 https://www.wired.com/story/behind-rise-chinas-facial-recognition-giants/?
+
+https://www.wired.com/story/tiktok-is-the-latest-window-into-chinas-police-state/
+
+https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html
+
+https://www.apple.com/newsroom/2019/09/a-message-about-ios-security/
