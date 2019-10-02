@@ -89,3 +89,5 @@ https://www.wired.com/story/tiktok-is-the-latest-window-into-chinas-police-state
 https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html
 
 https://www.apple.com/newsroom/2019/09/a-message-about-ios-security/
+
+https://www.cyberscoop.com/hong-kong-disinfo-campaign-graphika/
