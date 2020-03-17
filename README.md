@@ -93,3 +93,5 @@ https://www.apple.com/newsroom/2019/09/a-message-about-ios-security/
 https://www.cyberscoop.com/hong-kong-disinfo-campaign-graphika/
 
 https://intrusiontruth.wordpress.com/2020/01/09/what-is-the-hainan-xiandun-technology-development-company/
+
+https://au.pcmag.com/news/65850/china-has-been-censoring-coronavirus-information-for-months
