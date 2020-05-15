@@ -99,3 +99,5 @@ https://au.pcmag.com/news/65850/china-has-been-censoring-coronavirus-information
 https://www.forbes.com/sites/zakdoffman/2019/07/06/iranian-cyber-threat-heightened-by-chinas-support-for-its-cyber-war-on-u-s/#765e719642eb
 
 https://www.securityweek.com/us-says-chinese-hacking-vaccine-research-reports
+
+https://www.us-cert.gov/ncas/current-activity/2020/05/13/cisa-fbi-joint-announcement-prc-targeting-covid-19-research
