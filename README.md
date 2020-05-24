@@ -101,3 +101,5 @@ https://www.forbes.com/sites/zakdoffman/2019/07/06/iranian-cyber-threat-heighten
 https://www.securityweek.com/us-says-chinese-hacking-vaccine-research-reports
 
 https://www.us-cert.gov/ncas/current-activity/2020/05/13/cisa-fbi-joint-announcement-prc-targeting-covid-19-research
+
+https://www.wired.com/story/inside-chinas-massive-surveillance-operation/
