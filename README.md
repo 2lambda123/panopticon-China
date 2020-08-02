@@ -105,3 +105,5 @@ https://www.us-cert.gov/ncas/current-activity/2020/05/13/cisa-fbi-joint-announce
 https://www.wired.com/story/inside-chinas-massive-surveillance-operation/
 
 https://www.cyberscoop.com/chinese-hackers-accused-targeting-coronavirus-vaccine-research/ - figure out which APT
+
+https://blog.malwarebytes.com/threat-analysis/2020/07/chinese-apt-group-targets-india-and-hong-kong-using-new-variant-of-mgbot-malware/
