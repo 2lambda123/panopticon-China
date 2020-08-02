@@ -107,3 +107,5 @@ https://www.wired.com/story/inside-chinas-massive-surveillance-operation/
 https://www.cyberscoop.com/chinese-hackers-accused-targeting-coronavirus-vaccine-research/ - figure out which APT
 
 https://blog.malwarebytes.com/threat-analysis/2020/07/chinese-apt-group-targets-india-and-hong-kong-using-new-variant-of-mgbot-malware/
+
+https://www.zdnet.com/article/chinese-hackers-blamed-for-the-spread-of-mgbot-across-india-hong-kong/
