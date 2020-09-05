@@ -111,3 +111,5 @@ https://blog.malwarebytes.com/threat-analysis/2020/07/chinese-apt-group-targets-
 https://www.zdnet.com/article/chinese-hackers-blamed-for-the-spread-of-mgbot-across-india-hong-kong/
 
 https://www.indiatoday.in/world/story/inside-china-s-cyber-war-room-how-pla-is-plotting-global-attacks-1708292-2020-08-06
+
+https://www.theregister.com/2020/09/02/sepulcher_malware/
