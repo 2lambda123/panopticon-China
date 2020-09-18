@@ -113,3 +113,5 @@ https://www.zdnet.com/article/chinese-hackers-blamed-for-the-spread-of-mgbot-acr
 https://www.indiatoday.in/world/story/inside-china-s-cyber-war-room-how-pla-is-plotting-global-attacks-1708292-2020-08-06
 
 https://www.theregister.com/2020/09/02/sepulcher_malware/
+
+https://www.bleepingcomputer.com/news/security/us-govt-china-sponsored-hackers-targeting-exchange-citrix-f5-flaws/
