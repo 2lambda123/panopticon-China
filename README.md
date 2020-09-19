@@ -115,3 +115,5 @@ https://www.indiatoday.in/world/story/inside-china-s-cyber-war-room-how-pla-is-p
 https://www.theregister.com/2020/09/02/sepulcher_malware/
 
 https://www.bleepingcomputer.com/news/security/us-govt-china-sponsored-hackers-targeting-exchange-citrix-f5-flaws/
+
+https://www.cyberscoop.com/chinese-hacking-us-telecoms/
