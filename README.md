@@ -119,3 +119,5 @@ https://www.bleepingcomputer.com/news/security/us-govt-china-sponsored-hackers-t
 https://www.cyberscoop.com/chinese-hacking-us-telecoms/
 
 https://www.securityweek.com/sophisticated-chinese-apt-group-targets-southeast-asian-governments
+
+https://www.securityweek.com/nsa-lists-25-vulnerabilities-currently-targeted-chinese-state-sponsored-hackers
