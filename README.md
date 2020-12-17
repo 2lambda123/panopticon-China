@@ -121,3 +121,5 @@ https://www.cyberscoop.com/chinese-hacking-us-telecoms/
 https://www.securityweek.com/sophisticated-chinese-apt-group-targets-southeast-asian-governments
 
 https://www.securityweek.com/nsa-lists-25-vulnerabilities-currently-targeted-chinese-state-sponsored-hackers
+
+https://www.cyberscoop.com/china-biden-influence-operations-evanina/
