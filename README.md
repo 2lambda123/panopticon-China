@@ -123,3 +123,5 @@ https://www.securityweek.com/sophisticated-chinese-apt-group-targets-southeast-a
 https://www.securityweek.com/nsa-lists-25-vulnerabilities-currently-targeted-chinese-state-sponsored-hackers
 
 https://www.cyberscoop.com/china-biden-influence-operations-evanina/
+
+https://www.theregister.com/2020/10/05/uefi_rootkit_kaspersky_china/
