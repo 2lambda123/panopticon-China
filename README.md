@@ -125,3 +125,5 @@ https://www.securityweek.com/nsa-lists-25-vulnerabilities-currently-targeted-chi
 https://www.cyberscoop.com/china-biden-influence-operations-evanina/
 
 https://www.theregister.com/2020/10/05/uefi_rootkit_kaspersky_china/
+
+https://www.securityweek.com/facebook-says-fake-accounts-china-aimed-us-politics
