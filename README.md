@@ -127,3 +127,5 @@ https://www.cyberscoop.com/china-biden-influence-operations-evanina/
 https://www.theregister.com/2020/10/05/uefi_rootkit_kaspersky_china/
 
 https://www.securityweek.com/facebook-says-fake-accounts-china-aimed-us-politics
+
+https://us-cert.cisa.gov/ncas/current-activity/2020/09/14/chinese-government-affiliated-malicious-cyber-actors-targeting-us
