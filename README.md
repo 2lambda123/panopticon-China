@@ -131,3 +131,5 @@ https://www.securityweek.com/facebook-says-fake-accounts-china-aimed-us-politics
 https://us-cert.cisa.gov/ncas/current-activity/2020/09/14/chinese-government-affiliated-malicious-cyber-actors-targeting-us
 
 https://www.theregister.com/2021/03/01/statesponsored_chinese_group_attacked_india/
+
+https://www.hackread.com/facebook-removes-accounts-spread-ios-android-malware/
