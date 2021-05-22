@@ -135,3 +135,5 @@ https://www.theregister.com/2021/03/01/statesponsored_chinese_group_attacked_ind
 https://www.hackread.com/facebook-removes-accounts-spread-ios-android-malware/
 
 https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/
+
+https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/
