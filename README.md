@@ -145,3 +145,5 @@ https://www.cyberscoop.com/belgium-cyber-espionage-china-microsoft-exchange/
 https://www.technadu.com/chinese-hackers-caught-using-un-website-target-uyghur-muslims/279523/
 
 https://blog.checkpoint.com/2021/06/03/chinese-apt-group-targets-southeast-asian-government-with-previously-unknown-backdoor/
+
+https://www.securityweek.com/critical-entities-targeted-suspected-chinese-cyber-spying
