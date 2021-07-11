@@ -147,3 +147,5 @@ https://www.technadu.com/chinese-hackers-caught-using-un-website-target-uyghur-m
 https://blog.checkpoint.com/2021/06/03/chinese-apt-group-targets-southeast-asian-government-with-previously-unknown-backdoor/
 
 https://www.securityweek.com/critical-entities-targeted-suspected-chinese-cyber-spying
+
+https://cset.georgetown.edu/publication/academics-ai-and-apts/
