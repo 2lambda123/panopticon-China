@@ -149,3 +149,5 @@ https://blog.checkpoint.com/2021/06/03/chinese-apt-group-targets-southeast-asian
 https://www.securityweek.com/critical-entities-targeted-suspected-chinese-cyber-spying
 
 https://cset.georgetown.edu/publication/academics-ai-and-apts/
+
+https://www.securityweek.com/microsoft-says-solarwinds-serv-u-zero-day-exploited-chinese-group
