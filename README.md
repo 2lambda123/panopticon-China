@@ -153,3 +153,5 @@ https://cset.georgetown.edu/publication/academics-ai-and-apts/
 https://www.securityweek.com/microsoft-says-solarwinds-serv-u-zero-day-exploited-chinese-group
 
 https://www.washingtonpost.com/national-security/microsoft-hack-china-biden-nato/2021/07/19/a90ac7b4-e827-11eb-84a2-d93bc0b50294_story.html
+
+https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-iran
