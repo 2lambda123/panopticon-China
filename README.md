@@ -159,3 +159,5 @@ https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-i
 https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/1/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF
 
 https://www.theregister.com/2021/07/19/hafnium_china_state_security/
+
+https://www.nsa.gov/news-features/press-room/Article/2698416/nsa-cisa-and-fbi-detail-chinese-state-sponsored-actions-mitigations/
