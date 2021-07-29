@@ -155,3 +155,5 @@ https://www.securityweek.com/microsoft-says-solarwinds-serv-u-zero-day-exploited
 https://www.washingtonpost.com/national-security/microsoft-hack-china-biden-nato/2021/07/19/a90ac7b4-e827-11eb-84a2-d93bc0b50294_story.html
 
 https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-iran
+
+https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/1/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF
