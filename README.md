@@ -167,3 +167,5 @@ https://www.cyberscoop.com/china-hacking-fbi-biden-alert-ip/
 https://www.securityweek.com/cisa-details-malware-used-attacks-targeting-pulse-secure-devices
 
 https://us-cert.cisa.gov/ncas/alerts/aa21-200b
+
+https://us-cert.cisa.gov/ncas/current-activity/2021/07/19/us-government-releases-indictment-and-several-advisories-detailing
