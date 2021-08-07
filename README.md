@@ -171,3 +171,5 @@ https://us-cert.cisa.gov/ncas/alerts/aa21-200b
 https://us-cert.cisa.gov/ncas/current-activity/2021/07/19/us-government-releases-indictment-and-several-advisories-detailing
 
 https://www.securityweek.com/deadringer-three-pronged-attack-chinese-military-actors-against-major-telcos
+
+https://www.securityweek.com/china-linked-cyberespionage-operation-suggests-interest-scada-systems
