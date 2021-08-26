@@ -175,3 +175,5 @@ https://www.securityweek.com/deadringer-three-pronged-attack-chinese-military-ac
 https://www.securityweek.com/china-linked-cyberespionage-operation-suggests-interest-scada-systems
 
 https://www.securityweek.com/microsoft-says-solarwinds-serv-u-zero-day-exploited-chinese-group
+
+https://imp0rtp3.wordpress.com/2021/08/12/tetris/
