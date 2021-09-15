@@ -177,3 +177,5 @@ https://www.securityweek.com/china-linked-cyberespionage-operation-suggests-inte
 https://www.securityweek.com/microsoft-says-solarwinds-serv-u-zero-day-exploited-chinese-group
 
 https://imp0rtp3.wordpress.com/2021/08/12/tetris/
+
+https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/operation-harvest-a-deep-dive-into-a-long-term-campaign/
