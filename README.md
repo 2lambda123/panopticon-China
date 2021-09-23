@@ -179,3 +179,5 @@ https://www.securityweek.com/microsoft-says-solarwinds-serv-u-zero-day-exploited
 https://imp0rtp3.wordpress.com/2021/08/12/tetris/
 
 https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/operation-harvest-a-deep-dive-into-a-long-term-campaign/
+
+https://theprint.in/india/chinese-state-sponsored-hackers-targeted-uidai-times-group-report-says/737673/
