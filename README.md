@@ -183,3 +183,5 @@ https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/operation-harvest-
 https://theprint.in/india/chinese-state-sponsored-hackers-targeted-uidai-times-group-report-says/737673/
 
 https://www.securityweek.com/china-intensified-attacks-major-afghan-telecom-firm-us-finalized-withdrawal
+
+https://www.securityweek.com/macos-zero-day-exploited-deliver-malware-users-hong-kong
