@@ -185,3 +185,5 @@ https://theprint.in/india/chinese-state-sponsored-hackers-targeted-uidai-times-g
 https://www.securityweek.com/china-intensified-attacks-major-afghan-telecom-firm-us-finalized-withdrawal
 
 https://www.securityweek.com/macos-zero-day-exploited-deliver-malware-users-hong-kong
+
+https://www.wired.com/story/ios-macos-hacks-hong-kong-watering-hole/
