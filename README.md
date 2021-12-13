@@ -187,3 +187,5 @@ https://www.securityweek.com/china-intensified-attacks-major-afghan-telecom-firm
 https://www.securityweek.com/macos-zero-day-exploited-deliver-malware-users-hong-kong
 
 https://www.wired.com/story/ios-macos-hacks-hong-kong-watering-hole/
+
+https://www.securityweek.com/report-chinese-hackers-targeted-southeast-asian-nations
