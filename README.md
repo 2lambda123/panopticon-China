@@ -189,3 +189,5 @@ https://www.securityweek.com/macos-zero-day-exploited-deliver-malware-users-hong
 https://www.wired.com/story/ios-macos-hacks-hong-kong-watering-hole/
 
 https://www.securityweek.com/report-chinese-hackers-targeted-southeast-asian-nations
+
+https://www.securityweek.com/chinese-iranian-state-hackers-exploiting-log4j-flaw-mandiant
