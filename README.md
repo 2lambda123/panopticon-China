@@ -193,3 +193,5 @@ https://www.securityweek.com/report-chinese-hackers-targeted-southeast-asian-nat
 https://www.securityweek.com/chinese-iranian-state-hackers-exploiting-log4j-flaw-mandiant
 
 https://www.recordedfuture.com/chinese-state-sponsored-cyber-espionage-expansion-power-influence-southeast-asia/
+
+https://www.securityweek.com/facebook-twitter-take-down-more-state-linked-accounts
