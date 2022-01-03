@@ -195,3 +195,5 @@ https://www.securityweek.com/chinese-iranian-state-hackers-exploiting-log4j-flaw
 https://www.recordedfuture.com/chinese-state-sponsored-cyber-espionage-expansion-power-influence-southeast-asia/
 
 https://www.securityweek.com/facebook-twitter-take-down-more-state-linked-accounts
+
+https://www.wired.com/story/peng-shuai-censorship-china/
