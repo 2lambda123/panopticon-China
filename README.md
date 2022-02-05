@@ -199,3 +199,5 @@ https://www.securityweek.com/facebook-twitter-take-down-more-state-linked-accoun
 https://www.wired.com/story/peng-shuai-censorship-china/
 
 https://www.washingtonpost.com/national-security/china-harvests-masses-of-data-on-western-targets-documents-show/2021/12/31/3981ce9c-538e-11ec-8927-c396fa861a71_story.html
+
+https://www.securityweek.com/media-giant-news-corp-targeted-china-linked-cyberattack
