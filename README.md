@@ -201,3 +201,9 @@ https://www.wired.com/story/peng-shuai-censorship-china/
 https://www.washingtonpost.com/national-security/china-harvests-masses-of-data-on-western-targets-documents-show/2021/12/31/3981ce9c-538e-11ec-8927-c396fa861a71_story.html
 
 https://www.securityweek.com/media-giant-news-corp-targeted-china-linked-cyberattack
+
+https://www.securityweek.com/symantec-super-stealthy-daxin-backdoor-linked-chinese-threat-actor
+
+https://web.archive.org/web/20121218234344/https://blogs.technet.com/b/mmpc/archive/2012/12/06/the-quot-hidden-quot-backdoor-virtool-winnt-exforel-a.aspx
+
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage
