@@ -207,3 +207,5 @@ https://www.securityweek.com/symantec-super-stealthy-daxin-backdoor-linked-chine
 https://web.archive.org/web/20121218234344/https://blogs.technet.com/b/mmpc/archive/2012/12/06/the-quot-hidden-quot-backdoor-virtool-winnt-exforel-a.aspx
 
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage
+
+https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-discloses-apt-actors-deploying-daxin-malware
