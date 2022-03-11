@@ -209,3 +209,5 @@ https://web.archive.org/web/20121218234344/https://blogs.technet.com/b/mmpc/arch
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage
 
 https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-discloses-apt-actors-deploying-daxin-malware
+
+https://www.recordedfuture.com/inside-chinas-national-defense-mobilization-reform/
