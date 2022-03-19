@@ -211,3 +211,5 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-b
 https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-discloses-apt-actors-deploying-daxin-malware
 
 https://www.recordedfuture.com/inside-chinas-national-defense-mobilization-reform/
+
+https://www.recordedfuture.com/chinas-government-is-learning-from-russias-cyberattacks-against-ukraine/
