@@ -213,3 +213,5 @@ https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-d
 https://www.recordedfuture.com/inside-chinas-national-defense-mobilization-reform/
 
 https://www.recordedfuture.com/chinas-government-is-learning-from-russias-cyberattacks-against-ukraine/
+
+https://securityaffairs.co/wordpress/129206/apt/china-linked-apts-target-ukraine.html?utm_source=rss
