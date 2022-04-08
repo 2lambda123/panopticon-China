@@ -217,3 +217,5 @@ https://www.recordedfuture.com/inside-chinas-national-defense-mobilization-refor
 https://www.recordedfuture.com/chinas-government-is-learning-from-russias-cyberattacks-against-ukraine/
 
 https://securityaffairs.co/wordpress/129206/apt/china-linked-apts-target-ukraine.html?utm_source=rss
+
+https://www.securityweek.com/india-claims-it-foiled-chinese-cyberattack-disputed-border
