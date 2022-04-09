@@ -219,3 +219,5 @@ https://www.recordedfuture.com/chinas-government-is-learning-from-russias-cybera
 https://securityaffairs.co/wordpress/129206/apt/china-linked-apts-target-ukraine.html?utm_source=rss
 
 https://www.securityweek.com/india-claims-it-foiled-chinese-cyberattack-disputed-border
+
+https://therecord.media/suspected-china-backed-hackers-target-7-indian-electricity-grid-centers
