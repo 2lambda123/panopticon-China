@@ -223,3 +223,5 @@ https://www.securityweek.com/india-claims-it-foiled-chinese-cyberattack-disputed
 https://therecord.media/suspected-china-backed-hackers-target-7-indian-electricity-grid-centers
 
 https://www.recordedfuture.com/role-of-civil-society-and-the-united-front-in-chinas-evacuation-from-ukraine/
+
+https://blogs.jpcert.or.jp/ja/2022/05/HUILoader.html
