@@ -225,3 +225,5 @@ https://therecord.media/suspected-china-backed-hackers-target-7-indian-electrici
 https://www.recordedfuture.com/role-of-civil-society-and-the-united-front-in-chinas-evacuation-from-ukraine/
 
 https://blogs.jpcert.or.jp/ja/2022/05/HUILoader.html
+
+https://blog.checkpoint.com/2022/05/19/twisted-panda-check-point-research-unveils-a-chinese-apt-espionage-campaign-against-russian-state-owned-defense-institutes/
