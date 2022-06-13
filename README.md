@@ -235,3 +235,5 @@ https://www.bbc.co.uk/news/resources/idt-8df450b3-5d6d-4ed8-bdcc-bd99137eadc3
 https://www.recordedfuture.com/chinese-cybercrime-neighboring-countries
 
 https://www.wired.com/story/china-hacking-phone-network-security-roundup/
+
+https://blog.confiant.com/how-seaflower-%E8%97%8F%E6%B5%B7%E8%8A%B1-installs-backdoors-in-ios-android-web3-wallets-to-steal-your-seed-phrase-d25f0ccdffce
