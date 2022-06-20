@@ -241,3 +241,5 @@ https://blog.confiant.com/how-seaflower-%E8%97%8F%E6%B5%B7%E8%8A%B1-installs-bac
 https://www.cisa.gov/uscert/ncas/alerts/aa22-158a
 
 https://therecord.media/chinese-apt-groups-targeting-india-pakistan-and-more-with-sophos-firewall-vulnerability
+
+https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access
