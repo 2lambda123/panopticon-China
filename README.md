@@ -245,3 +245,5 @@ https://therecord.media/chinese-apt-groups-targeting-india-pakistan-and-more-wit
 https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access
 
 https://therecord.media/us-agencies-detail-the-digital-plumbing-used-by-chinese-state-sponsored-hackers/
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-158a
