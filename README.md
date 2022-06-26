@@ -247,3 +247,5 @@ https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-c
 https://therecord.media/us-agencies-detail-the-digital-plumbing-used-by-chinese-state-sponsored-hackers/
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-158a
+
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/07/peoples-republic-china-state-sponsored-cyber-actors-exploit
