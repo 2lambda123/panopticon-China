@@ -249,3 +249,5 @@ https://therecord.media/us-agencies-detail-the-digital-plumbing-used-by-chinese-
 https://www.cisa.gov/uscert/ncas/alerts/aa22-158a
 
 https://www.cisa.gov/uscert/ncas/current-activity/2022/06/07/peoples-republic-china-state-sponsored-cyber-actors-exploit
+
+https://www.securityweek.com/chinese-hackers-target-building-management-systems
