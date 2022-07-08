@@ -253,3 +253,5 @@ https://www.cisa.gov/uscert/ncas/current-activity/2022/06/07/peoples-republic-ch
 https://www.securityweek.com/chinese-hackers-target-building-management-systems
 
 https://ics-cert.kaspersky.com/publications/reports/2022/06/27/attacks-on-industrial-control-systems-using-shadowpad/
+
+https://www.sentinelone.com/labs/targets-of-interest-russian-organizations-increasingly-under-attack-by-chinese-apts/
