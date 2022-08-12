@@ -263,3 +263,5 @@ https://www.securityweek.com/belgium-says-chinese-apts-targeted-interior-defense
 https://www.recordedfuture.com/10-years-sansha-city
 
 https://therecord.media/taiwanese-government-sites-disrupted-by-hackers-ahead-of-pelosi-trip/
+
+https://www.reuters.com/technology/7-11s-train-stations-cyber-attacks-plague-taiwan-over-pelosi-visit-2022-08-04/
