@@ -267,3 +267,5 @@ https://therecord.media/taiwanese-government-sites-disrupted-by-hackers-ahead-of
 https://www.reuters.com/technology/7-11s-train-stations-cyber-attacks-plague-taiwan-over-pelosi-visit-2022-08-04/
 
 https://www.mandiant.com/resources/pro-prc-information-operations-campaign-haienergy
+
+https://www.cyberscoop.com/dhs-official-chinese-rules-exploit/
