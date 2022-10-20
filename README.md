@@ -269,3 +269,5 @@ https://www.reuters.com/technology/7-11s-train-stations-cyber-attacks-plague-tai
 https://www.mandiant.com/resources/pro-prc-information-operations-campaign-haienergy
 
 https://www.cyberscoop.com/dhs-official-chinese-rules-exploit/
+
+https://www.washingtonpost.com/politics/2022/10/17/chinese-hackers-are-scanning-state-political-party-headquarters-fbi-says/
