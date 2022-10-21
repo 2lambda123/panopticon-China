@@ -271,3 +271,5 @@ https://www.mandiant.com/resources/pro-prc-information-operations-campaign-haien
 https://www.cyberscoop.com/dhs-official-chinese-rules-exploit/
 
 https://www.washingtonpost.com/politics/2022/10/17/chinese-hackers-are-scanning-state-political-party-headquarters-fbi-says/
+
+https://www.wired.com/story/chinese-american-misinformation-midterm-elections-wechat/
