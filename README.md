@@ -277,3 +277,5 @@ https://www.washingtonpost.com/politics/2022/10/17/chinese-hackers-are-scanning-
 https://www.wired.com/story/chinese-american-misinformation-midterm-elections-wechat/
 
 https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/
+
+https://www.wired.com/story/china-police-stations-security-roundup/
