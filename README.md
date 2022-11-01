@@ -281,3 +281,5 @@ https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-survei
 https://www.wired.com/story/china-police-stations-security-roundup/
 
 https://blogs.vmware.com/security/2022/10/threat-analysis-active-c2-discovery-using-protocol-emulation-part3-shadowpad.html
+
+https://blog.google/threat-analysis-group/tag-bulletin-q3-2022/
