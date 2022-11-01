@@ -279,3 +279,5 @@ https://www.wired.com/story/chinese-american-misinformation-midterm-elections-we
 https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/
 
 https://www.wired.com/story/china-police-stations-security-roundup/
+
+https://blogs.vmware.com/security/2022/10/threat-analysis-active-c2-discovery-using-protocol-emulation-part3-shadowpad.html
