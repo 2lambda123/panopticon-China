@@ -285,3 +285,5 @@ https://blogs.vmware.com/security/2022/10/threat-analysis-active-c2-discovery-us
 https://blog.google/threat-analysis-group/tag-bulletin-q3-2022/
 
 https://www.securityweek.com/microsoft-china-flaw-disclosure-law-part-zero-day-exploit-surge
+
+https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report-2022
