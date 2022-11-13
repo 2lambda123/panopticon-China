@@ -287,3 +287,5 @@ https://blog.google/threat-analysis-group/tag-bulletin-q3-2022/
 https://www.securityweek.com/microsoft-china-flaw-disclosure-law-part-zero-day-exploit-surge
 
 https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report-2022
+
+https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/ bunch of groups
