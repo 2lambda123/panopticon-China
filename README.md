@@ -291,3 +291,5 @@ https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-repo
 https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/ bunch of groups
 
 https://therecord.media/fbi-director-warns-of-potential-chinese-govt-exploitation-of-tiktok/
+
+https://www.uscc.gov/annual-report/2022-annual-report-congress
