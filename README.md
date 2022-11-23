@@ -293,3 +293,5 @@ https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intell
 https://therecord.media/fbi-director-warns-of-potential-chinese-govt-exploitation-of-tiktok/
 
 https://www.uscc.gov/annual-report/2022-annual-report-congress
+
+https://www.securityweek.com/microsoft-warns-boa-web-server-risks-after-hackers-target-it-power-grid-attacks
