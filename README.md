@@ -295,3 +295,5 @@ https://therecord.media/fbi-director-warns-of-potential-chinese-govt-exploitatio
 https://www.uscc.gov/annual-report/2022-annual-report-congress
 
 https://www.securityweek.com/microsoft-warns-boa-web-server-risks-after-hackers-target-it-power-grid-attacks
+
+https://www.cyfirma.com/blogs/windows-internet-key-exchange-ike-remote-code-execution-vulnerability-analysis/
