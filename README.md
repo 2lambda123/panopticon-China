@@ -301,3 +301,5 @@ https://www.cyfirma.com/blogs/windows-internet-key-exchange-ike-remote-code-exec
 https://www.wired.com/story/china-zero-covid-protest-crackdown/
 
 https://www.wired.com/story/how-chinese-protests-netizens-swamped-chinas-internet-controls/
+
+https://www.securityweek.com/amnesty-international-canada-says-it-was-hacked-beijing
