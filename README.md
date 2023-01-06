@@ -305,3 +305,5 @@ https://www.wired.com/story/how-chinese-protests-netizens-swamped-chinas-interne
 https://www.securityweek.com/amnesty-international-canada-says-it-was-hacked-beijing
 
 https://therecord.media/amnesty-international-breach-linked-to-chinese-government-investigation-finds/
+
+https://theintercept.com/2022/12/30/russia-china-news-media-agreement/
