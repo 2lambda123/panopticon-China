@@ -307,3 +307,5 @@ https://www.securityweek.com/amnesty-international-canada-says-it-was-hacked-bei
 https://therecord.media/amnesty-international-breach-linked-to-chinese-government-investigation-finds/
 
 https://theintercept.com/2022/12/30/russia-china-news-media-agreement/
+
+https://www.securityweek.com/many-13-new-mac-malware-families-discovered-2022-linked-china
