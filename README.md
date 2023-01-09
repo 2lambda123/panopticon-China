@@ -309,3 +309,5 @@ https://therecord.media/amnesty-international-breach-linked-to-chinese-governmen
 https://theintercept.com/2022/12/30/russia-china-news-media-agreement/
 
 https://www.securityweek.com/many-13-new-mac-malware-families-discovered-2022-linked-china
+
+https://www.uscc.gov/annual-report/2022-annual-report-congress
