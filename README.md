@@ -311,3 +311,5 @@ https://theintercept.com/2022/12/30/russia-china-news-media-agreement/
 https://www.securityweek.com/many-13-new-mac-malware-families-discovered-2022-linked-china
 
 https://www.uscc.gov/annual-report/2022-annual-report-congress
+
+https://kienmanowar.wordpress.com/2023/01/09/quicknote-another-nice-plugx-sample/
